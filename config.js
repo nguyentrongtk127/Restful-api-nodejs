@@ -1,0 +1,3 @@
+module.exports = {
+    jwtSecret: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxMTgsInVzZXJuYW1lIjoia2lldC0yIiwiaWF0IjoxNTQzOTg0MDI1LCJleHAiOjE1NDM5ODQyMDV9.91EZRlgJ9htKU-WeAB7TFCE_f4cuBewLlSsdMK-lxHk'
+}
